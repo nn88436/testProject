@@ -1,0 +1,2 @@
+# testProject
+git properties files
